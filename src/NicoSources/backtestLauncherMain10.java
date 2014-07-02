@@ -47,6 +47,7 @@ public class backtestLauncherMain10 {
             toDate = args[1];
             destWriteFolder = args[2];
             JForexCacheFolder = args[3];
+            
         } else {
             /* For linux server
             
